@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "193730429066",
+    "firebase_url": "https://host-cffda.firebaseio.com",
+    "project_id": "host-cffda",
+    "storage_bucket": "host-cffda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193730429066:android:aefb953cff78af47",
+        "android_client_info": {
+          "package_name": "com.example.kona.host"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193730429066-4cf3j9t4p97k5r3ei3lj8si47sv9a0sn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kona.host",
+            "certificate_hash": "cbe14cac35413ecccb7bc197a85cb966c0d7f30e"
+          }
+        },
+        {
+          "client_id": "193730429066-0g9cl5071mt4f03j279k299srbps4elh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6X3iWhbE4JCnKMCfZwXmtokOKFsv8-18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193730429066-0g9cl5071mt4f03j279k299srbps4elh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
